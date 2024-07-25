@@ -1,4 +1,4 @@
-#*👋 Oii, eu sou @jhcxrrea, mas conhecido como Jhon.*#
+#👋 Oii, eu sou @jhcxrrea, mas conhecido como Jhon.
 
 # 💫 About Me:
 🔭 Atualmente estou trabalhando em: Desenvolvimento de projetos pessoais e aprimoramento do assistente virtual Jessie.<br><br>
